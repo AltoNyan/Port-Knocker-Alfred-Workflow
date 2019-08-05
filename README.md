@@ -1,12 +1,12 @@
-# Port-Knocker Workflow for Alfred App v.1.0.3
+# Port-Knocker Workflow for Alfred App v.1.1.0
 
 ### Port knocking easily using Alfred App [https://www.alfredapp.com/](https://www.alfredapp.com/)
 
-### [Download Knock WorkFlow 1.0.3](https://github.com/AltoNyan/Port-Knocker-Alfred-Workflow/releases/tag/1.0.3)
+### [Download Knock WorkFlow 1.1.0](https://github.com/AltoNyan/Port-Knocker-Alfred-Workflow/releases/tag/1.1.0)
 
 ## Install
 
-1. Double click on the "**Knock.alfredworkflow v1.0.3**" workflow that you have downloaded. \
+1. Double click on the "**Knock.alfredworkflow v1.1.0**" workflow that you have downloaded. \
 \
 More info: [https://www.alfredapp.com/help/workflows/](https://www.alfredapp.com/help/workflows/)  
 
